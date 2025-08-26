@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_test_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 16:53:03</sys_created_on>
+        <sys_id>06819b86c3232210c114ba2ed40131fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test catalog View</sys_name>
+        <sys_package display_value="Test application" source="x_1813521_test_app">d5f0db42c3232210c114ba2ed40131a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</sys_scope>
+        <sys_update_name>sys_ui_view_06819b86c3232210c114ba2ed40131fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 16:53:03</sys_updated_on>
+        <title>Test catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

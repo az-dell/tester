@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Test catalog description">81919f86c3232210c114ba2ed4013167</sc_cat_item>
+        <sc_catalog display_value="Test catalog">47715b86c3232210c114ba2ed401319a</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 16:53:36</sys_created_on>
+        <sys_id>82a113c6c3232210c114ba2ed4013103</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test catalog.Test catalog description</sys_name>
+        <sys_package display_value="Test application" source="x_1813521_test_app">d5f0db42c3232210c114ba2ed40131a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_82a113c6c3232210c114ba2ed4013103</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 16:53:36</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
