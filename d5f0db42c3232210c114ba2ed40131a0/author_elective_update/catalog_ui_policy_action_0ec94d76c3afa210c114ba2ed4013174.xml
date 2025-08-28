@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Testing ">be0873c2c3e32210c114ba2ed401316e</catalog_item>
+        <catalog_variable>IO:bd78cdf2c3afa210c114ba2ed4013128</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-27 14:55:24</sys_created_on>
+        <sys_id>0ec94d76c3afa210c114ba2ed4013174</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>start_date</sys_name>
+        <sys_package display_value="Test application" source="x_1813521_test_app">d5f0db42c3232210c114ba2ed40131a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_0ec94d76c3afa210c114ba2ed4013174</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-27 14:55:24</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'start_date' mandatory &amp; visible depending on 'retention_lock'">30a98976c3afa210c114ba2ed401317a</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>start_date</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=0ec94d76c3afa210c114ba2ed4013174"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</application>
+        <file_path/>
+        <instance_id>764544153bcf0ed8baf6048aa4e45a7e</instance_id>
+        <instance_name>dev278042</instance_name>
+        <name>catalog_ui_policy_action_0ec94d76c3afa210c114ba2ed4013174</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Testing ">be0873c2c3e32210c114ba2ed401316e</catalog_item><catalog_variable>IO:bd78cdf2c3afa210c114ba2ed4013128</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-27 14:55:24</sys_created_on><sys_id>0ec94d76c3afa210c114ba2ed4013174</sys_id><sys_mod_count>0</sys_mod_count><sys_name>start_date</sys_name><sys_package display_value="Test application" source="x_1813521_test_app">d5f0db42c3232210c114ba2ed40131a0</sys_package><sys_policy/><sys_scope display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</sys_scope><sys_update_name>catalog_ui_policy_action_0ec94d76c3afa210c114ba2ed4013174</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-27 14:55:24</sys_updated_on><table/><ui_policy display_value="Make 'start_date' mandatory &amp; visible depending on 'retention_lock'">30a98976c3afa210c114ba2ed401317a</ui_policy><value/><value_action>ignore</value_action><variable>start_date</variable><variable_set/><visible>true</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=0ec94d76c3afa210c114ba2ed4013174"/></record_update>]]></payload>
+        <payload_hash>1214004374</payload_hash>
+        <record_name>start_date</record_name>
+        <reverted_from/>
+        <source>a8f941b6c3afa210c114ba2ed4013161</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-27 14:56:07</sys_created_on>
+        <sys_id>acf981b6c3afa210c114ba2ed4013130</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198ec07718b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-27 14:56:07</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>a0f981b640afa210d33dfea3b2a82230</update_guid>
+        <update_guid_history>a0f981b640afa210d33dfea3b2a82230:1214004374,a8f981b691afa210816300b14339e32b:1639310483</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="start_date">c40e81fac3afa210c114ba2ed4013128</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-27 15:13:49</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>b84c1f90359349c6ba7684daea055604</sys_id>
+        <sys_metadata>0ec94d76c3afa210c114ba2ed4013174</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>start_date</sys_name>
+        <sys_package display_value="Test application" source="x_1813521_test_app">d5f0db42c3232210c114ba2ed40131a0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</sys_scope>
+        <sys_scope_delete display_value="">01484a4419d24ae0823b7d70a6c74381</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_0ec94d76c3afa210c114ba2ed4013174</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_0ec94d76c3afa210c114ba2ed4013174">acf981b6c3afa210c114ba2ed4013130</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-27 15:13:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

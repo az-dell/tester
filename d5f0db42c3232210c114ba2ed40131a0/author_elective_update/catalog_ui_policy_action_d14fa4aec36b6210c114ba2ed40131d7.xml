@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Testing ">be0873c2c3e32210c114ba2ed401316e</catalog_item>
+        <catalog_variable>IO:b01c60aac36b6210c114ba2ed40131d2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-26 18:21:05</sys_created_on>
+        <sys_id>d14fa4aec36b6210c114ba2ed40131d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>start_time</sys_name>
+        <sys_package display_value="Test application" source="x_1813521_test_app">d5f0db42c3232210c114ba2ed40131a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d14fa4aec36b6210c114ba2ed40131d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-26 18:21:05</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'start_time' mandatory &amp; visible depending on 'retention_lock'">463f6c6ec36b6210c114ba2ed4013164</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>start_time</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=d14fa4aec36b6210c114ba2ed40131d7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</application>
+        <file_path/>
+        <instance_id>764544153bcf0ed8baf6048aa4e45a7e</instance_id>
+        <instance_name>dev278042</instance_name>
+        <name>catalog_ui_policy_action_d14fa4aec36b6210c114ba2ed40131d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Testing ">be0873c2c3e32210c114ba2ed401316e</catalog_item><catalog_variable>IO:b01c60aac36b6210c114ba2ed40131d2</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-26 18:21:05</sys_created_on><sys_id>d14fa4aec36b6210c114ba2ed40131d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>start_time</sys_name><sys_package display_value="Test application" source="x_1813521_test_app">d5f0db42c3232210c114ba2ed40131a0</sys_package><sys_policy/><sys_scope display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</sys_scope><sys_update_name>catalog_ui_policy_action_d14fa4aec36b6210c114ba2ed40131d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-26 18:21:05</sys_updated_on><table/><ui_policy display_value="Make 'start_time' mandatory &amp; visible depending on 'retention_lock'">463f6c6ec36b6210c114ba2ed4013164</ui_policy><value/><value_action>ignore</value_action><variable>start_time</variable><variable_set/><visible>true</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=d14fa4aec36b6210c114ba2ed40131d7"/></record_update>]]></payload>
+        <payload_hash>353039533</payload_hash>
+        <record_name>start_time</record_name>
+        <reverted_from/>
+        <source>018d45bac3afa210c114ba2ed40131ff</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-27 15:11:43</sys_created_on>
+        <sys_id>d18d85bac3afa210c114ba2ed4013149</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198ec15bb510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-27 15:11:43</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>5d68b86a8bab62108e4c4353fcfbc5ed</update_guid>
+        <update_guid_history>5d68b86a8bab62108e4c4353fcfbc5ed:353039533,80964172aeafa210d2ec705a41f6dcdb:1097883708,70bf20ee5f6b6210dac34cba865bf8e3:353039533,bcbf20ee746b6210c7eb068c792d48df:1985711301</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="start_time">43c65687c3232210c114ba2ed40131ec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-28 15:10:22</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>04566f3bbc3f45b380863ca85413c931</sys_id>
+        <sys_metadata>d14fa4aec36b6210c114ba2ed40131d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>start_time</sys_name>
+        <sys_package display_value="Test application" source="x_1813521_test_app">d5f0db42c3232210c114ba2ed40131a0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test application">d5f0db42c3232210c114ba2ed40131a0</sys_scope>
+        <sys_scope_delete display_value="">01484a4419d24ae0823b7d70a6c74381</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_d14fa4aec36b6210c114ba2ed40131d7</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_d14fa4aec36b6210c114ba2ed40131d7">d18d85bac3afa210c114ba2ed4013149</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-28 15:10:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
